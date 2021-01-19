@@ -1,8 +1,8 @@
 ---
- title:eureka(AP) 和 zookeeper (CP)区别
+ title: eureka(AP) 和 zookeeper (CP)区别
 ---
 
-这两个都是微服务的注册中心;也是我们经常聊的问题,以下是本人对此的了解
+### 这两个都是微服务的注册中心;也是我们经常聊的问题,以下是本人对此的了解
 
 ### eureka
    1. eureka 是什么
