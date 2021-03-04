@@ -2,6 +2,8 @@
 title: redis 命令
 ---
 
+### 安装路径
+
 1. ###key
    获取全部keys
 
