@@ -39,5 +39,3 @@
   5. python
   6. 计算视觉
   7. docker
-
- 

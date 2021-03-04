@@ -3,23 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My World,
-subtitle: '活着,应该感受生活，于体会生活'
+title: 21 世纪的普通人的生活,
+subtitle: '活着,应该感受生活，体会生活'
 description: '时间总是能让人记住很多东西，但是人却忘记的很快'
-keywords:
+keywords: java,react
 author: Aaron Yang
 language: 
 timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: http://yangyun.fun
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

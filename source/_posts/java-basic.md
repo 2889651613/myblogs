@@ -16,11 +16,19 @@ java是一门面向对象编程语言，吸收了c++的优点,摈弃了c++的多
 ### java 基础
 
 1. 基本属性
+  保留关键字：
+    public protected private void int Integer char Character float Float long Long byte String emun class interface abstract extends implements default native
 
 2. 继承
+
 3. 多态
+
 4. 文件处理
+
 5. io流
+
 6. socket
+
+7. 重写和重载
 
 ### 虚拟机
