@@ -11,12 +11,9 @@ title: java8
        List<Integer> numbers=Arrays.asList(3,1,2,4,5,7);
        List<Integer> test2=numbers.stream().map(i->i*i).distinct().collect(Collectors.toList());
      
- 
- 
- 
 2. filter
 
- 对一个可迭代的对象的子节点
+对一个可迭代的对象的子节点
  
        List<String> string= Arrays.asList("abc","","bc","efg","abcd","jkl");
         // filter
@@ -41,6 +38,7 @@ title: java8
 5. 统计
 
  IntSummaryStatistics 类结合Stream
-   
+ ```  
     // 该类可以对数字的集合进行平均值，最大值，最小值，合计值
     IntSummaryStatistics statistics=numbers.stream().mapToInt((x)->x).summaryStatistics();
+ ```

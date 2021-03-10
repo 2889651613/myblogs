@@ -8,7 +8,7 @@ subtitle: '活着,应该感受生活，体会生活'
 description: '时间总是能让人记住很多东西，但是人却忘记的很快'
 keywords: java,react
 author: Aaron Yang
-language: 
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -45,7 +45,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
@@ -82,7 +82,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
-updated_option: 'mtime'
+updated_option: 'date'
 
 # Pagination
 ## Set per_page to 0 to disable pagination

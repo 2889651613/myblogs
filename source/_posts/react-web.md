@@ -17,7 +17,7 @@
 
    template
 
-     ```
+   ```
      import React from 'react'
       class A extends React.Component{
         render(){
@@ -28,6 +28,7 @@
     
         }
       }
+  ```
 
 生命周期
   

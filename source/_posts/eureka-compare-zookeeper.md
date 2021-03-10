@@ -12,7 +12,6 @@
       1. 如何注册一个客户端
           1. 添加依赖
           ```
-         
            <groupId>org.springframework.clound</groupId>
            <artifactId>spring-cloud-starter-eureka-client</artifactId>
           ```
